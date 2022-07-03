@@ -43,6 +43,9 @@ here is the link to the documentation:
 * Serve content from S3 bucket with CloudFront
 * Create domain name on freenom
 * Link domain name to Route53
-* Direct traffic from route53 to cloudfront and set security (https)
+* Direct traffic from route53 to cloudfront and set security (`https`)
+
+Here is a powerpoint with step-by-step direction: 
+https://docs.google.com/presentation/d/1e2NmUCauuiA1Ez70D67fLWWXeBs69AAiRKUW2GhGf9I/edit#slide=id.gb61e145030_0_5
 
  
