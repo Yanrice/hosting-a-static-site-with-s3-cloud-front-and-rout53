@@ -35,3 +35,14 @@ Other materials
 here is the link to the website: https://school-website.ga/
 here is the link to the documentation:
  https://docs.google.com/presentation/d/1e2NmUCauuiA1Ez70D67fLWWXeBs69AAiRKUW2GhGf9I/edit?usp=sharing
+ 
+ ## How to proceed
+* Create S3 bucket
+* Upload web files to S3 bucket
+* Secure S3 bucket through IAM policies
+* Serve content from S3 bucket with CloudFront
+* Create domain name on freenom
+* Link domain name to Route53
+* Direct traffic from route53 to cloudfront and set security (https)
+
+ 
