@@ -16,7 +16,7 @@ He has added the following requirements to his document.
 
 ## Tips
 Here are some tips to help you out with the project
-You’ll create an Amazon S3 bucket to hold your static website files and an Amazon CloudFront distribution to serve your website globally. Amazon Route 53 will manage your domain name, and AWS Certificate Manager will provide a valid SSL/TLS certificate.
+You’ll create an **Amazon S3 bucket** to hold your static website files and an **Amazon CloudFront** distribution to serve your website globally. **Amazon Route 53** will manage your domain name, and **AWS Certificate Manager** will provide a valid **SSL/TLS** certificate.
 Services to be used
 
 * Amazon S3
@@ -26,8 +26,8 @@ Services to be used
 
 ## Prerequisites 
 You’ll need a few things to get started with this project:
-Static school website made up of HTML, CSS, JavaScript, etc.
-files You can download the code from here
+Static school website made up of `HTML`, `CSS`, `JavaScript`, etc.
+files You can download the code from here:
 https://github.com/tatahnoellimnyuy/schoolstatic/archive/refs/heads/main.zip
 You will also need to create an account on freenom to register your free domain name
 Other materials
