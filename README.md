@@ -1,6 +1,6 @@
 # Host a secure static school information website
 
-![](Images/aws project 2.jpeg)
+![](Images/aws%20project%202.jpeg)
 
 
 ### Team Members: 
