@@ -1,4 +1,4 @@
-#Host a secure static school information website
+# Host a secure static school information website
 
 ![](Images/aws%20projectk%20.jpg)
 
