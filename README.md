@@ -1,4 +1,4 @@
-Host a secure static school information website
+#Host a secure static school information website
 A client needs you to host his school website (meaning the information is hard coded) .
 He has added the following requirements to his document.
 – It has to be accessible with a domain name
